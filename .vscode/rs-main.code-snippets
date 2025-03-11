@@ -1,0 +1,14 @@
+{
+    "Rust Main": {
+        "scope": "rust",
+        "prefix": "rs-main",
+        "body": [
+			"use std::io;",
+			"",
+            "fn main() {",
+            "    println!(\"Hello, world!\");",
+            "}"
+        ],
+        "description": "Basic Rust main function"
+    }
+}
