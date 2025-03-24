@@ -77,3 +77,7 @@ path = "src/week_2/E/main.rs"
 [[bin]]
 name = "week_2_f"
 path = "src/week_2/F/main.rs"
+
+[[bin]]
+name = "week_2_g"
+path = "src/week_2/G/main.rs"
