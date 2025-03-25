@@ -53,3 +53,59 @@ path = "src/week_1/K/main.rs"
 [[bin]]
 name = "week_1_l"
 path = "src/week_1/L/main.rs"
+
+[[bin]]
+name = "week_2_a"
+path = "src/week_2/A/main.rs"
+
+[[bin]]
+name = "week_2_b"
+path = "src/week_2/B/main.rs"
+
+[[bin]]
+name = "week_2_c"
+path = "src/week_2/C/main.rs"
+
+[[bin]]
+name = "week_2_d"
+path = "src/week_2/D/main.rs"
+
+[[bin]]
+name = "week_2_e"
+path = "src/week_2/E/main.rs"
+
+[[bin]]
+name = "week_2_f"
+path = "src/week_2/F/main.rs"
+
+[[bin]]
+name = "week_2_g"
+path = "src/week_2/G/main.rs"
+
+[[bin]]
+name = "week_2_h"
+path = "src/week_2/H/main.rs"
+
+[[bin]]
+name = "week_2_i"
+path = "src/week_2/I/main.rs"
+
+[[bin]]
+name = "week_2_j"
+path = "src/week_2/J/main.rs"
+
+[[bin]]
+name = "week_2_k"
+path = "src/week_2/K/main.rs"
+
+[[bin]]
+name = "week_2_l"
+path = "src/week_2/L/main.rs"
+
+[[bin]]
+name = "week_2_m"
+path = "src/week_2/M/main.rs"
+
+[[bin]]
+name = "week_2_n"
+path = "src/week_2/N/main.rs"
